@@ -2,7 +2,7 @@
 
 from typing import Final
 
- import enum
+import enum
 
 DOMAIN: Final = "bemfa"
 
